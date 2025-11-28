@@ -49,7 +49,7 @@
                     │                      │                      │
                     ▼                      ▼                      ▼
         ┌───────────────────┐  ┌───────────────────┐  ┌───────────────────┐
-        │  API Service      │  │  WebSocket Server │  │  Supabase         │
+        │  API Service      │  │  Server           │  │  Supabase         │
         │  (FastAPI/Python) │  │  (Golang)         │  │  (PostgreSQL)     │
         └───────────────────┘  └───────────────────┘  └─────────┬─────────┘
                                                                 │
