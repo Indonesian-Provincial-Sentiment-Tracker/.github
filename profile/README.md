@@ -73,7 +73,7 @@
             │             │                │             │
             │             ▼                │             ▼
             │   ┌───────────────────┐      │   ┌───────────────────┐
-            │   │ Topic Classifier  │      │   │ Update Database   │
+            │   │ Topic Classifier  │──────│──▶│ Update Database   │
             │   │ Transformer       │      │   │                   │
             │   └───────────────────┘      │   └───────────────────┘
             │                              │
